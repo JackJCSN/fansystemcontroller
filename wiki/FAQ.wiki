@@ -9,20 +9,36 @@
 
 3.为什么不能获取到CPU温度?
 系统目前只能支持下列CPU，请确保您的CPU在支持列表中：
-AMD:
-* All FX series.
-* All APU series.
-* All Phenom / Phenom II series.
-* All Athlon II series.
-* All Turion II series.
-* All Athlon64 series.
-* All Athlon64 X2 series.
-* All Athlon64 FX series.
-* All Turion64 series.
-* All Turion64 X2 series.
-* All Sempron series. (K8 and K10.5 based)
-* Single Core Opterons starting with SH-C0 revision and up. (K8 based)
-* All Dual Core Opteron series. (K8 based)
-* All Quad Core Opteron series. (K10 based)
-* All Hexa Core Opteron series. (K10.5 based)
-* All 12 Core Opteron series. (K10.5 based)
+ AMD:
+ * FX系列
+ * APU系列
+ * Phenom/Phenom II系列
+ * Athlon II系列
+ * Turion II系列
+ * Athlon64系列
+ * Athlon64 X2系列
+ * Athlon64 FX系列
+ * Turion64系列
+ * Turion64 X2系列
+ * 基于K8和K105的Sempron系列
+ * 基于K8的单核心Opterons starting SH-C0和更新版本
+ * 基于K8的双核心Opteron系列
+ * 基于K10的四核心Opteron系列
+ * 基于K10.5的八核心Opteron系列 
+ * 基于K10.5的十二核心Opteron系列
+ Intel:
+ * 酷睿i3, i5, i7 全系列
+ * 凌动系列.
+ * 酷睿单核系列
+ * 酷睿双核系列
+ * 酷睿2 Duo 系列
+ * 酷睿2 Quad 系列
+ * 酷睿2 Extreme 系列
+ * 赛扬M400和500系列
+ * 赛扬E1000和E3000系列
+ * 奔腾E2000, E2100, E2200, E5000, E6000 和 E7000系列
+ * 基于Yonah的双核低电压至强处理器系列(未经测试)
+ * 至强3000, 3200, 3300, 5100, 5300, 5400, 5500, 5600, 6500, 7400, 7500 系列
+ VIA:
+ * 威盛Nano系列
+ * C7系列和C7衍生处理器.
