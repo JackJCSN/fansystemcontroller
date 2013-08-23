@@ -45,3 +45,10 @@
  VIA:
  * 威盛Nano系列
  * C7系列和C7衍生处理器.
+
+4.我是Window XP(SP2)用户，为何我在使用程序时会经常蓝屏死机？
+
+这是Microsoft(微软)的一个已知的系统故障，当XP SP2 用户在运行设置了兼容Vista以上操作系统UAC权限控制的应用程序是会导致系统崩溃。(仅有Windows XP SP2版的用户会遇到此问题)。
+
+解决方案：
+<font color="#F00">建议您及时升级您的操作系统至至少XP SP3[http://support.microsoft.com/kb/322389/zh-cn [升级方法]]。注意：微软对Windows XP的支持将于2014年4月8日结束。如果你在支持结束后运行此操作系统，则无法获得Windows的安全更新和微软的技术支持。使用最新版本的window可以获得更佳的用户体验。</font>如果你暂时不想或不能升级您的操作系统，请参考下面的[http://support.microsoft.com/kb/921337/zh-cn 知识库文章][http://support.microsoft.com/kb/921337/zh-cn]，并及时安装相应的补丁程序。
