@@ -1,11 +1,14 @@
 #labels ReleaseNote,Phase-Support,Phase-Deploy
 =历史更新记录=
-
- * 1.1.1.39 当前版本
-  [https://docs.google.com/file/d/0ByB_bbE_F_PNZy1Uc0FJYlFkeXM/edit?usp=sharing 从Google云端硬盘下载]
+ * 1.2.0.0  当前版本。中秋快乐。
+   支持多国语言，优化性能。使用新版的CoreTemp来提高兼容性。
+  [https://docs.google.com/file/d/0ByB_bbE_F_PNQlhPRnZYdzV0VmM/ 从Google云端硬盘下载]
+  [https://d.jackjcsn.com/f/d?v=1.2.0.0 从JackJCSN下载]
+ * 1.1.1.39 第一版
+  [https://docs.google.com/file/d/0ByB_bbE_F_PNZy1Uc0FJYlFkeXM/ 从Google云端硬盘下载]
   [https://d.jackjcsn.com/f/d?v=1.1.1.39 从JackJCSN下载]
  * 1.1.0.38 内部测试版本
-  [https://docs.google.com/file/d/0ByB_bbE_F_PNSWVlbl9HVnhFM00/edit?usp=sharing 从Google云端硬盘下载]
+  [https://docs.google.com/file/d/0ByB_bbE_F_PNSWVlbl9HVnhFM00/ 从Google云端硬盘下载]
   [https://d.jackjcsn.com/f/d?v=1.1.0.38 从JackJCSN下载]
- * 1.1.0.37 <font color="#F00">此版本已停用</font>
- * 1.1.0.36 <font color="#F00">此版本已停用</font>
+ * 1.1.0.37 <font color="#F00">此版本已停用(无法与现有硬件兼容)</font>
+ * 1.1.0.36 <font color="#F00">此版本已停用(无法与现有硬件兼容)</font>
