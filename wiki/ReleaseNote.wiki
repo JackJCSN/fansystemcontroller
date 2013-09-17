@@ -1,7 +1,7 @@
 #labels ReleaseNote,Phase-Support,Phase-Deploy
 =历史更新记录=
  * 1.2.0.0  当前版本。中秋快乐。
-   支持多国语言，优化性能。使用新版的CoreTemp来提高兼容性。
+   支持多国语言，优化性能。使用新版的 CoreTemp 来提高兼容性。
   [https://docs.google.com/file/d/0ByB_bbE_F_PNQlhPRnZYdzV0VmM/ 从Google云端硬盘下载]
   [https://d.jackjcsn.com/f/d?v=1.2.0.0 从JackJCSN下载]
  * 1.1.1.39 第一版
